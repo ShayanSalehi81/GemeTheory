@@ -8,18 +8,21 @@
 \usepackage[usenames,dvipsnames]{pstricks}
 \usepackage{enumitem,xifthen,xparse}
 \usepackage[margin=1in]{geometry}
-\usepackage{hyperref}
+\usepackage[colorlinks=true, linkcolor=blue, urlcolor=red]{hyperref}
 \usepackage[localise=on]{xepersian}
 \usepackage[noend]{algpseudocode}
+\usepackage{setspace}
 \usepackage{physics}
+\usepackage[dvipsnames]{xcolor}
 
+\definecolor{darkgreen}{cmyk}{0.9,0,0.9,0.2}
 
 %--------------------- Font settings ----------------------
-\settextfont[Scale=1.2,ExternalLocation=fonts/,BoldFont=XBNiloofarBd.ttf,ItalicFont=XBNiloofarIt,BoldItalicFont=XBNiloofarBdIt]{XBNiloofar.ttf}
-\setdigitfont[Scale=1.2,ExternalLocation=fonts/,BoldFont=XBNiloofarBd.ttf,ItalicFont=XBNiloofarIt,BoldItalicFont=XBNiloofarBdIt]{XBNiloofar.ttf}
+\settextfont[Scale=1.1,ExternalLocation=fonts/,BoldFont=XBNiloofarBd.ttf,ItalicFont=XBNiloofarIt,BoldItalicFont=XBNiloofarBdIt]{XBNiloofar.ttf}
+\setdigitfont[Scale=1.1,ExternalLocation=fonts/,BoldFont=XBNiloofarBd.ttf,ItalicFont=XBNiloofarIt,BoldItalicFont=XBNiloofarBdIt]{XBNiloofar.ttf}
 %\setdigitfont[Scale=1.0]{XB Niloofar}
 %\settextfont[Scale=1.2, ]{compset.ttf}
-\defpersianfont\sayeh[Scale=1.2,ExternalLocation=fonts/]{XBKayhanPook.ttf}
+\defpersianfont\sayeh[Scale=1.1,ExternalLocation=fonts/]{XBKayhanPook.ttf}
 
 
 %--------------------- page settings ----------------------

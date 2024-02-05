@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.5.12)  5 FEB 2024 11:15
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.5.12)  5 FEB 2024 12:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -390,6 +390,7 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
  (C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
 )
+Package hyperref Info: Option `colorlinks' set `true' on input line 4045.
 Package hyperref Info: Hyper figures OFF on input line 4162.
 Package hyperref Info: Link nesting OFF on input line 4167.
 Package hyperref Info: Hyper index ON on input line 4170.
@@ -416,7 +417,7 @@ Package hyperref Info: Hyper figures OFF on input line 6027.
 Package hyperref Info: Link nesting OFF on input line 6032.
 Package hyperref Info: Hyper index ON on input line 6035.
 Package hyperref Info: backreferencing OFF on input line 6042.
-Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring ON on input line 6045.
 Package hyperref Info: Link coloring with OCG OFF on input line 6052.
 Package hyperref Info: PDF/A mode OFF on input line 6057.
  (C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty
@@ -723,54 +724,56 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \ALG@tmplength=\skip64
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
+) (C:\Program Files\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
 ) (C:\Program Files\MiKTeX\tex/latex/physics\physics.sty
 Package: physics 
 )
 
 Package fontspec Info: Font family 'XBNiloofar.ttf(0)' created for font
 (fontspec)             'XBNiloofar.ttf' with options
-(fontspec)             [RawFeature={script=arab},Ligatures=PersianTeX,Scale=1.2,ExternalLocation=fonts/,BoldFont=XBNiloofarBd.ttf,ItalicFont=XBNiloofarIt,BoldItalicFont=XBNiloofarBdIt].
+(fontspec)             [RawFeature={script=arab},Ligatures=PersianTeX,Scale=1.1,ExternalLocation=fonts/,BoldFont=XBNiloofarBd.ttf,ItalicFont=XBNiloofarIt,BoldItalicFont=XBNiloofarBdIt].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1.2]"[fonts/XBNiloofar.ttf]/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;"
+(fontspec)             <->s*[1.1]"[fonts/XBNiloofar.ttf]/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1.2]"[fonts/XBNiloofarBd.ttf]/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;"
+(fontspec)             <->s*[1.1]"[fonts/XBNiloofarBd.ttf]/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1.2]"[fonts/XBNiloofarIt.ttf]/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;"
+(fontspec)             <->s*[1.1]"[fonts/XBNiloofarIt.ttf]/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1.2]"[fonts/XBNiloofarBdIt.ttf]/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;"
+(fontspec)             <->s*[1.1]"[fonts/XBNiloofarBdIt.ttf]/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 19.
+(Font)              scaled to size 11.00006pt on input line 22.
 
 Package fontspec Info: Font family 'XBNiloofar.ttf(1)' created for font
 (fontspec)             'XBNiloofar.ttf' with options
-(fontspec)             [Ligatures=PersianTeX,Scale=1.2,ExternalLocation=fonts/,BoldFont=XBNiloofarBd.ttf,ItalicFont=XBNiloofarIt,BoldItalicFont=XBNiloofarBdIt].
+(fontspec)             [Ligatures=PersianTeX,Scale=1.1,ExternalLocation=fonts/,BoldFont=XBNiloofarBd.ttf,ItalicFont=XBNiloofarIt,BoldItalicFont=XBNiloofarBdIt].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1.2]"[fonts/XBNiloofar.ttf]/OT:script=latn;language=dflt;mapping=persian-tex-text;"
+(fontspec)             <->s*[1.1]"[fonts/XBNiloofar.ttf]/OT:script=latn;language=dflt;mapping=persian-tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[1.2]"[fonts/XBNiloofarBd.ttf]/OT:script=latn;language=dflt;mapping=persian-tex-text;"
+(fontspec)             <->s*[1.1]"[fonts/XBNiloofarBd.ttf]/OT:script=latn;language=dflt;mapping=persian-tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[1.2]"[fonts/XBNiloofarIt.ttf]/OT:script=latn;language=dflt;mapping=persian-tex-text;"
+(fontspec)             <->s*[1.1]"[fonts/XBNiloofarIt.ttf]/OT:script=latn;language=dflt;mapping=persian-tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[1.2]"[fonts/XBNiloofarBdIt.ttf]/OT:script=latn;language=dflt;mapping=persian-tex-text;"
+(fontspec)             <->s*[1.1]"[fonts/XBNiloofarBdIt.ttf]/OT:script=latn;language=dflt;mapping=persian-tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas'XBNiloofar.ttf' on input line 22.
+Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas'XBNiloofar.ttf' on input line 25.
 \symOPERATORS=\mathgroup6
 \symnew@mathbf@font@digits=\mathgroup7
 \symnew@mathit@font@digits=\mathgroup8
@@ -778,13 +781,13 @@ Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas'
 
 Package fontspec Info: Font family 'XBKayhanPook.ttf(0)' created for font
 (fontspec)             'XBKayhanPook.ttf' with options
-(fontspec)             [RawFeature={script=arab},Ligatures=PersianTeX,Scale=1.2,ExternalLocation=fonts/].
+(fontspec)             [RawFeature={script=arab},Ligatures=PersianTeX,Scale=1.1,ExternalLocation=fonts/].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[1.2]"[fonts/XBKayhanPook.ttf]/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;"
+(fontspec)             <->s*[1.1]"[fonts/XBKayhanPook.ttf]/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 \c@لم=\count388
@@ -855,7 +858,7 @@ LaTeX Font Info:    ... okay on input line 5.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 5.
+Package hyperref Info: Link coloring ON on input line 5.
 (HW.out) (HW.out)
 \@outlinefile=\write4
 \openout4 = `HW.out'.
@@ -863,50 +866,134 @@ Package hyperref Info: Link coloring OFF on input line 5.
 File: commons/sharif.png Graphic file (type bmp)
 <commons/sharif.png>
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 7.
+(Font)              scaled to size 7.70004pt on input line 7.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/b/n' will be
-(Font)              scaled to size 8.39998pt on input line 7.
+(Font)              scaled to size 7.70004pt on input line 7.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 10.79997pt on input line 7.
+(Font)              scaled to size 9.90005pt on input line 7.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 17.27994pt on input line 7.
+(Font)              scaled to size 15.84007pt on input line 7.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/b/n' will be
-(Font)              scaled to size 17.27994pt on input line 7.
+(Font)              scaled to size 15.84007pt on input line 7.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/b/n' will be
-(Font)              scaled to size 11.99997pt on input line 7.
+(Font)              scaled to size 11.00006pt on input line 7.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/b/n' will be
-(Font)              scaled to size 11.99997pt on input line 7.
+(Font)              scaled to size 11.00006pt on input line 7.
 
 Underfull \hbox (badness 10000) in paragraph at lines 7--7
 [][]
  []
 
 LaTeX Font Info:    Font shape `TU/XBKayhanPook.ttf(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 7.
+(Font)              scaled to size 11.00006pt on input line 7.
 LaTeX Font Info:    Font shape `TU/XBKayhanPook.ttf(0)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 7.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 10.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 10.
+(Font)              scaled to size 13.20007pt on input line 7.
+(questions/1.tex
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 10.
-(questions/1.tex)
+(Font)              scaled to size 15.84007pt on input line 5.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 12.
- [1
+(Font)              scaled to size 11.00006pt on input line 9.
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/n' will be
+(Font)              scaled to size 7.70004pt on input line 9.
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/n' will be
+(Font)              scaled to size 5.50003pt on input line 9.
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/bx/n' in size <10> not available
+(Font)              Font shape `TU/XBNiloofar.ttf(1)/b/n' tried instead on input line 9.
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/b/n' will be
+(Font)              scaled to size 11.00006pt on input line 9.
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/bx/n' in size <7> not available
+(Font)              Font shape `TU/XBNiloofar.ttf(1)/b/n' tried instead on input line 9.
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/b/n' will be
+(Font)              scaled to size 7.70004pt on input line 9.
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/bx/n' in size <5> not available
+(Font)              Font shape `TU/XBNiloofar.ttf(1)/b/n' tried instead on input line 9.
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/b/n' will be
+(Font)              scaled to size 5.50003pt on input line 9.
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/it' will be
+(Font)              scaled to size 11.00006pt on input line 9.
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/it' will be
+(Font)              scaled to size 7.70004pt on input line 9.
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(1)/m/it' will be
+(Font)              scaled to size 5.50003pt on input line 9.
 
-] (HW.aux)
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 9.
+
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
+(Font)              scaled to size 5.50003pt on input line 19.
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 25.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 28.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 33.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 36.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 45.
+
+[1
+
+]
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 48.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 51.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 54.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 63.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 66.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 71.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 74.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 77.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 80.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 83.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 86.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 89.
+
+) [2] (HW.aux)
 Package rerunfilecheck Info: File `HW.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 3D8587A09990C8759430F67A3BBF1C6B;342.
  ) 
 Here is how much of TeX's memory you used:
- 25133 strings out of 411564
- 468686 string characters out of 2824404
- 1845985 words of memory out of 3000000
- 44849 multiletter control sequences out of 15000+600000
- 512919 words of font info for 67 fonts, out of 8000000 for 9000
+ 25244 strings out of 411564
+ 471165 string characters out of 2824404
+ 1860985 words of memory out of 3000000
+ 44936 multiletter control sequences out of 15000+600000
+ 514674 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 90i,5n,101p,1365b,339s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 90i,5n,101p,1365b,495s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on HW.xdv (1 page, 3404 bytes).
+Output written on HW.xdv (2 pages, 40908 bytes).
