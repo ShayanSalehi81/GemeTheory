@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.5.12)  20 FEB 2024 13:07
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.5.12)  20 FEB 2024 13:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -951,17 +951,17 @@ LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
 (Font)              scaled to size 11.99997pt on input line 14.
 ) (../questions/Q3.tex) [1
 
-] (../questions/Q4.tex) (../questions/Q5.tex) (../questions/Q6.tex) [2] (HW2.aux)
+] (../questions/Q4.tex) (../questions/Q5.tex) (../questions/Q6.tex) (../questions/Q7.tex [2]) (../questions/Q8.tex) (../questions/Q9.tex) [3] (HW2.aux)
 Package rerunfilecheck Info: File `HW2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23425 strings out of 411564
- 447569 string characters out of 2824404
+ 23443 strings out of 411564
+ 447932 string characters out of 2824404
  1858985 words of memory out of 3000000
- 43113 multiletter control sequences out of 15000+600000
+ 43122 multiletter control sequences out of 15000+600000
  519231 words of font info for 89 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,5n,94p,2463b,342s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 92i,6n,94p,2463b,350s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on HW2.xdv (2 pages, 37504 bytes).
+Output written on HW2.xdv (3 pages, 50572 bytes).
