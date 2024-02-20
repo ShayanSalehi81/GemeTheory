@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.5.12)  20 FEB 2024 11:11
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.5.12)  20 FEB 2024 11:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW1_Sharif/HW1/A1.tex"
-(d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW1_Sharif/HW1/A1.tex
+**"d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW2_Sharif/HW2/HW2.tex"
+(d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW2_Sharif/HW2/HW2.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-01-16> (C:\Program Files\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -845,8 +845,8 @@ Package fontspec Info: Font family 'XBKayhanPook.ttf(0)' created for font 'XB
 \c@مشاهده=\count401
 \c@تعریف=\count402
 \c@probcnt=\count403
-) (A1.aux)
-\openout1 = `A1.aux'.
+) (HW2.aux)
+\openout1 = `HW2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
@@ -873,12 +873,10 @@ LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 Package hyperref Info: Link coloring ON on input line 7.
+ (HW2.out) (HW2.out)
 \@outlinefile=\write4
-\openout4 = `A1.out'.
+\openout4 = `HW2.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -948,28 +946,22 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
+) (../questions/Q1.tex) (../questions/Q2.tex
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
+(Font)              scaled to size 11.99997pt on input line 14.
+) (../questions/Q3.tex) [1
 
-! LaTeX Error: File `../questions/Q1.tex' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
-
-Enter file name: 
-d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW1_Sharif/HW1/A1.tex:14: Emergency stop.
-<read *> 
-         
-l.14 \input{../questions/Q1.tex}
-                                ^^M
-*** (cannot \read from terminal in nonstop modes)
-
- 
+] (../questions/Q4.tex) (../questions/Q5.tex) [2] (HW2.aux)
+Package rerunfilecheck Info: File `HW2.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
 Here is how much of TeX's memory you used:
- 23374 strings out of 411564
- 446650 string characters out of 2824404
- 1843985 words of memory out of 3000000
- 43089 multiletter control sequences out of 15000+600000
- 517524 words of font info for 80 fonts, out of 8000000 for 9000
+ 23419 strings out of 411564
+ 447448 string characters out of 2824404
+ 1858985 words of memory out of 3000000
+ 43110 multiletter control sequences out of 15000+600000
+ 519231 words of font info for 89 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,3n,94p,2462b,250s stack positions out of 10000i,1000n,20000p,200000b,80000s
-No pages of output.
+ 92i,5n,94p,2463b,342s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+Output written on HW2.xdv (2 pages, 33400 bytes).
