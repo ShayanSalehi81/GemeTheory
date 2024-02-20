@@ -1,15 +1,17 @@
 # Fdb version 4
-["xdvipdfmx"] 1708426390 "HW2.xdv" "HW2.pdf" "HW2" 1708426390 0
-  "HW2.xdv" 1708426389 61552 b7cdc95d42583cb1c5aadaa1d9663ee2 "xelatex"
+["xdvipdfmx"] 1708427752 "HW2.xdv" "HW2.pdf" "HW2" 1708427753 0
+  "HW2.xdv" 1708427752 69288 2ca5cf893f6e2b8615a2af308f60d4bf "xelatex"
   (generated)
   "HW2.pdf"
   (rewritten before read)
-["xelatex"] 1708426386 "d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW2_Sharif/HW2/HW2.tex" "HW2.xdv" "HW2" 1708426390 0
+["xelatex"] 1708427749 "d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW2_Sharif/HW2/HW2.tex" "HW2.xdv" "HW2" 1708427753 0
   "../commons/alg-fa.tex" 1707886330 1438 630aaa81895929eddba0efb6ab754a8c ""
   "../commons/sharif.png" 1707886330 34782 91c831e22cd5b8b30cdd0d7fa2b74a71 ""
   "../commons/style.tex" 1707886330 3699 ee81a0c9f624acc9992e1ffcd9c5174b ""
   "../questions/Q1.tex" 1708417275 1072 d581deaeda0d60cc46dc6b249f7db22e ""
   "../questions/Q10.tex" 1708426384 621 f036db0d3710d7eecf72c8bd997cd857 ""
+  "../questions/Q11.tex" 1708427419 778 d8eb7acbf563b5e770f5093c3a73e117 ""
+  "../questions/Q12.tex" 1708427677 665 7107caa225f12b13236e520e50cff80c ""
   "../questions/Q2.tex" 1708416864 1509 052a5956254062b0c365f46ddc1c1de6 ""
   "../questions/Q3.tex" 1708416269 400 487b47d4e9abe746478e85547d31250d ""
   "../questions/Q4.tex" 1708417152 1799 9b37f79721f5dd568b05fb63cd2e7ed7 ""
@@ -189,10 +191,10 @@
   "C:/Program Files/MiKTeX/tex/xelatex/xepersian/xepersian.sty" 1667129856 54585 b300d6b8a9c3de50c8d582d10f7f3fd7 ""
   "C:/Program Files/MiKTeX/tex/xelatex/xetex-pstricks/pstricks.con" 1266284760 204 366747485ba2670f55166e66d1f21249 ""
   "C:/Users/Eye Patch/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1683914123 36428414 3d658bbc48afc67546175ac8f194f841 ""
-  "HW2.aux" 1708426389 555 e69e5f47e820f35bb0a9ca451d75729e "xelatex"
-  "HW2.out" 1708426389 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "HW2.tex" 1708426206 916 6450f3e89c4b17193d5b7d26d7f94368 ""
-  "d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW2_Sharif/HW2/HW2.tex" 1708426206 916 6450f3e89c4b17193d5b7d26d7f94368 ""
+  "HW2.aux" 1708427752 555 8cd7ae2fcfe3db55c1ee5dcbced043b8 "xelatex"
+  "HW2.out" 1708427751 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "HW2.tex" 1708427748 1013 5e6dd2609cb7f8f792c535380bde09ee ""
+  "d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW2_Sharif/HW2/HW2.tex" 1708427748 1013 5e6dd2609cb7f8f792c535380bde09ee ""
   (generated)
   "HW2.aux"
   "HW2.log"

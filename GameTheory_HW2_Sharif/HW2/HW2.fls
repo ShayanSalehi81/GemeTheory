@@ -1152,10 +1152,10 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
 INPUT ..\questions\Q2.tex
 INPUT ..\questions\Q2.tex
 INPUT ..\questions\Q2.tex
-INPUT ..\questions\Q3.tex
-INPUT ..\questions\Q3.tex
-INPUT ..\questions\Q3.tex
 OUTPUT HW2.xdv
+INPUT ..\questions\Q3.tex
+INPUT ..\questions\Q3.tex
+INPUT ..\questions\Q3.tex
 INPUT ..\questions\Q4.tex
 INPUT ..\questions\Q4.tex
 INPUT ..\questions\Q4.tex
@@ -1177,6 +1177,12 @@ INPUT ..\questions\Q9.tex
 INPUT ..\questions\Q10.tex
 INPUT ..\questions\Q10.tex
 INPUT ..\questions\Q10.tex
+INPUT ..\questions\Q11.tex
+INPUT ..\questions\Q11.tex
+INPUT ..\questions\Q11.tex
+INPUT ..\questions\Q12.tex
+INPUT ..\questions\Q12.tex
+INPUT ..\questions\Q12.tex
 INPUT HW2.aux
 INPUT .\HW2.out
 INPUT .\HW2.out
