@@ -1,21 +1,21 @@
 # Fdb version 4
-["xdvipdfmx"] 1709090342 "HW.xdv" "HW.pdf" "HW" 1709090343 0
-  "HW.xdv" 1709090342 10876 37b7d489bef4149677396af2a8550e88 "xelatex"
+["xdvipdfmx"] 1709091074 "HW.xdv" "HW.pdf" "HW" 1709091074 0
+  "HW.xdv" 1709091073 17336 aacee8e57f523bc338eb7e0b86bfb632 "xelatex"
   (generated)
   "HW.pdf"
   (rewritten before read)
-["xelatex"] 1709090339 "d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW3_Sharif/HW2/HW.tex" "HW.xdv" "HW" 1709090343 0
+["xelatex"] 1709091071 "d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW3_Sharif/HW/HW.tex" "HW.xdv" "HW" 1709091074 0
   "../commons/alg-fa.tex" 1707886330 1438 630aaa81895929eddba0efb6ab754a8c ""
   "../commons/sharif.png" 1707886330 34782 91c831e22cd5b8b30cdd0d7fa2b74a71 ""
   "../commons/style.tex" 1707886330 3699 ee81a0c9f624acc9992e1ffcd9c5174b ""
-  "../questions/Q1.tex" 1709090332 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "../questions/Q1.tex" 1709090598 831 d675ec28477216af8dc37ccce4fb7d33 ""
   "../questions/Q10.tex" 1709090332 0 d41d8cd98f00b204e9800998ecf8427e ""
   "../questions/Q11.tex" 1709090332 0 d41d8cd98f00b204e9800998ecf8427e ""
   "../questions/Q12.tex" 1709090332 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "../questions/Q2.tex" 1709090332 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "../questions/Q3.tex" 1709090332 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "../questions/Q2.tex" 1709090760 1304 2e2679f8f0e0309c1f5b7bd7ca386507 ""
+  "../questions/Q3.tex" 1709091057 356 524bab2ac449d6714a4b5d36d3aa55fb ""
   "../questions/Q4.tex" 1709090332 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "../questions/Q5.tex" 1708417363 869 52e4133e8ec68b0e046d5d1170518709 ""
+  "../questions/Q5.tex" 1709091070 0 d41d8cd98f00b204e9800998ecf8427e ""
   "../questions/Q6.tex" 1709090332 0 d41d8cd98f00b204e9800998ecf8427e ""
   "../questions/Q7.tex" 1709090332 0 d41d8cd98f00b204e9800998ecf8427e ""
   "../questions/Q8.tex" 1709090332 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -24,8 +24,10 @@
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1233951854 924 9904cf1d39e9767e7a3622f2a125a565 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1233951854 928 2dc8d444221b7a635bb58038579b861a ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233951854 908 2921f8a10601f252058503cc6570e581 ""
+  "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1233951854 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1233951854 940 228d6584342e91276bf566bcf9716b83 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmex10.tfm" 1136765053 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -189,10 +191,10 @@
   "C:/Program Files/MiKTeX/tex/xelatex/xepersian/xepersian.sty" 1667129856 54585 b300d6b8a9c3de50c8d582d10f7f3fd7 ""
   "C:/Program Files/MiKTeX/tex/xelatex/xetex-pstricks/pstricks.con" 1266284760 204 366747485ba2670f55166e66d1f21249 ""
   "C:/Users/Eye Patch/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1683914123 36428414 3d658bbc48afc67546175ac8f194f841 ""
-  "HW.aux" 1709090342 555 fd9750e4cbb08397c6d9c031d458e1d1 "xelatex"
-  "HW.out" 1709090342 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "HW.tex" 1709090252 1013 448824c513070a21aade446d3e8a71d7 ""
-  "d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW3_Sharif/HW2/HW.tex" 1709090252 1013 448824c513070a21aade446d3e8a71d7 ""
+  "HW.aux" 1709091073 555 fd9750e4cbb08397c6d9c031d458e1d1 "xelatex"
+  "HW.out" 1709091073 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "HW.tex" 1709090776 800 de66a1c1328fc224fa39b9e6eb6bbc3d ""
+  "d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW3_Sharif/HW/HW.tex" 1709090776 800 de66a1c1328fc224fa39b9e6eb6bbc3d ""
   (generated)
   "HW.aux"
   "HW.log"

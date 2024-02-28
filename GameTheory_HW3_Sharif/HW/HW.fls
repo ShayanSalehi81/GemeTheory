@@ -1,6 +1,6 @@
-PWD d:\Term 08\Game-Theory\Geme-Theory\GameTheory_HW3_Sharif\HW2
+PWD d:\Term 08\Game-Theory\Geme-Theory\GameTheory_HW3_Sharif\HW
 INPUT C:\Users\Eye Patch\AppData\Local\MiKTeX\miktex\data\le\xetex\xelatex.fmt
-INPUT d:\Term 08\Game-Theory\Geme-Theory\GameTheory_HW3_Sharif\HW2\HW.tex
+INPUT d:\Term 08\Game-Theory\Geme-Theory\GameTheory_HW3_Sharif\HW\HW.tex
 OUTPUT HW.log
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
@@ -1141,19 +1141,27 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT ..\questions\Q1.tex
 INPUT ..\questions\Q1.tex
 INPUT ..\questions\Q1.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
 INPUT ..\questions\Q2.tex
 INPUT ..\questions\Q2.tex
 INPUT ..\questions\Q2.tex
+INPUT ..\questions\Q3.tex
+INPUT ..\questions\Q3.tex
+INPUT ..\questions\Q3.tex
+INPUT ..\questions\Q4.tex
+INPUT ..\questions\Q4.tex
+INPUT ..\questions\Q4.tex
+INPUT ..\questions\Q5.tex
+INPUT ..\questions\Q5.tex
+INPUT ..\questions\Q5.tex
 OUTPUT HW.xdv
-INPUT ..\questions\Q3.tex
-INPUT ..\questions\Q3.tex
-INPUT ..\questions\Q3.tex
-INPUT ..\questions\Q4.tex
-INPUT ..\questions\Q4.tex
-INPUT ..\questions\Q4.tex
-INPUT ..\questions\Q5.tex
-INPUT ..\questions\Q5.tex
-INPUT ..\questions\Q5.tex
 INPUT ..\questions\Q6.tex
 INPUT ..\questions\Q6.tex
 INPUT ..\questions\Q6.tex
