@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.5.12)  28 FEB 2024 07:09
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.5.12)  28 FEB 2024 07:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -949,19 +949,19 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (../questions/Q1.tex
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
 (Font)              scaled to size 11.99997pt on input line 6.
-) (../questions/Q2.tex) (../questions/Q3.tex) (../questions/Q4.tex [1
+) (../questions/Q2.tex) (../questions/Q3.tex) [1
 
-]) (../questions/Q5.tex) (../questions/Q6.tex) (../questions/Q7.tex) (../questions/Q8.tex) (../questions/Q9.tex) [2] (../questions/Q10.tex) (../questions/Q11.tex) (../questions/Q12.tex) [3] (HW.aux)
+] (../questions/Q4.tex) (../questions/Q5.tex) (../questions/Q6.tex) (../questions/Q7.tex [2]) (../questions/Q8.tex) (../questions/Q9.tex) (../questions/Q10.tex) (../questions/Q11.tex) [3] (../questions/Q12.tex) (../questions/Q13.tex) (../questions/Q14.tex) [4] (HW.aux)
 Package rerunfilecheck Info: File `HW.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23461 strings out of 411564
- 448291 string characters out of 2824404
- 1860985 words of memory out of 3000000
- 43131 multiletter control sequences out of 15000+600000
- 519231 words of font info for 89 fonts, out of 8000000 for 9000
+ 23478 strings out of 411564
+ 448786 string characters out of 2824404
+ 1858985 words of memory out of 3000000
+ 43139 multiletter control sequences out of 15000+600000
+ 519247 words of font info for 91 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,7n,94p,2461b,342s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 92i,7n,94p,2461b,455s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on HW.xdv (3 pages, 37708 bytes).
+Output written on HW.xdv (4 pages, 58504 bytes).

@@ -1155,10 +1155,10 @@ INPUT ..\questions\Q2.tex
 INPUT ..\questions\Q3.tex
 INPUT ..\questions\Q3.tex
 INPUT ..\questions\Q3.tex
-INPUT ..\questions\Q4.tex
-INPUT ..\questions\Q4.tex
-INPUT ..\questions\Q4.tex
 OUTPUT HW.xdv
+INPUT ..\questions\Q4.tex
+INPUT ..\questions\Q4.tex
+INPUT ..\questions\Q4.tex
 INPUT ..\questions\Q5.tex
 INPUT ..\questions\Q5.tex
 INPUT ..\questions\Q5.tex
@@ -1183,6 +1183,12 @@ INPUT ..\questions\Q11.tex
 INPUT ..\questions\Q12.tex
 INPUT ..\questions\Q12.tex
 INPUT ..\questions\Q12.tex
+INPUT ..\questions\Q13.tex
+INPUT ..\questions\Q13.tex
+INPUT ..\questions\Q13.tex
+INPUT ..\questions\Q14.tex
+INPUT ..\questions\Q14.tex
+INPUT ..\questions\Q14.tex
 INPUT HW.aux
 INPUT .\HW.out
 INPUT .\HW.out
