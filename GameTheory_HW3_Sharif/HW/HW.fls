@@ -1158,10 +1158,10 @@ INPUT ..\questions\Q3.tex
 INPUT ..\questions\Q4.tex
 INPUT ..\questions\Q4.tex
 INPUT ..\questions\Q4.tex
-INPUT ..\questions\Q5.tex
-INPUT ..\questions\Q5.tex
-INPUT ..\questions\Q5.tex
 OUTPUT HW.xdv
+INPUT ..\questions\Q5.tex
+INPUT ..\questions\Q5.tex
+INPUT ..\questions\Q5.tex
 INPUT ..\questions\Q6.tex
 INPUT ..\questions\Q6.tex
 INPUT ..\questions\Q6.tex
