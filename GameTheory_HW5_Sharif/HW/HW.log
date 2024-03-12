@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.5.12)  5 MAR 2024 10:27
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.5.12)  12 MAR 2024 15:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW4_Sharif/HW/HW.tex"
-(d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW4_Sharif/HW/HW.tex
+**"d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW5_Sharif/HW/HW.tex"
+(d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW5_Sharif/HW/HW.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-01-16> (C:\Program Files\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -1103,21 +1103,32 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (../questions/Q1.tex
+File: pics/image1.jpg Graphic file (type bmp)
+<pics/image1.jpg>
+) (../questions/Q2.tex
+File: pics/image2.jpg Graphic file (type bmp)
+<pics/image2.jpg>
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
-(Font)              scaled to size 11.99997pt on input line 4.
-) (../questions/Q2.tex) (../questions/Q3.tex) [1
+(Font)              scaled to size 11.99997pt on input line 6.
+) (../questions/Q3.tex [1
 
-] (../questions/Q4.tex) (../questions/Q5.tex) (../questions/Q6.tex) [2] (../questions/Q7.tex) (../questions/Q8.tex) [3] (../questions/Q9.tex) (../questions/Q10.tex) [4] (HW.aux)
+]) (../questions/Q4.tex
+File: pics/image3.jpg Graphic file (type bmp)
+<pics/image3.jpg>
+) [2] (../questions/Q5.tex
+File: pics/image4.jpg Graphic file (type bmp)
+<pics/image4.jpg>
+) (../questions/Q6.tex) (../questions/Q7.tex) (../questions/Q8.tex) (../questions/Q9.tex) (../questions/Q10.tex) [3] (HW.aux)
 Package rerunfilecheck Info: File `HW.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28364 strings out of 411564
- 559756 string characters out of 2824404
- 1863985 words of memory out of 3000000
- 47919 multiletter control sequences out of 15000+600000
+ 28339 strings out of 411564
+ 558432 string characters out of 2824404
+ 1851985 words of memory out of 3000000
+ 47884 multiletter control sequences out of 15000+600000
  519239 words of font info for 90 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 92i,9n,94p,2461b,976s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 92i,7n,94p,2461b,346s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on HW.xdv (4 pages, 81948 bytes).
+Output written on HW.xdv (3 pages, 15828 bytes).
