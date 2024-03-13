@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.5.12)  12 MAR 2024 15:23
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.5.12)  13 MAR 2024 09:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1118,17 +1118,23 @@ File: pics/image3.jpg Graphic file (type bmp)
 ) [2] (../questions/Q5.tex
 File: pics/image4.jpg Graphic file (type bmp)
 <pics/image4.jpg>
-) (../questions/Q6.tex) (../questions/Q7.tex) (../questions/Q8.tex) (../questions/Q9.tex) (../questions/Q10.tex) [3] (HW.aux)
+) (../questions/Q6.tex
+File: pics/image5.jpg Graphic file (type bmp)
+<pics/image5.jpg>
+) (../questions/Q7.tex [3]
+File: pics/image6.jpg Graphic file (type bmp)
+<pics/image6.jpg>
+) (../questions/Q8.tex) (../questions/Q9.tex) (../questions/Q10.tex) [4] (HW.aux)
 Package rerunfilecheck Info: File `HW.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28339 strings out of 411564
- 558432 string characters out of 2824404
+ 28383 strings out of 411564
+ 559296 string characters out of 2824404
  1851985 words of memory out of 3000000
- 47884 multiletter control sequences out of 15000+600000
+ 47926 multiletter control sequences out of 15000+600000
  519239 words of font info for 90 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  92i,7n,94p,2461b,346s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on HW.xdv (3 pages, 15828 bytes).
+Output written on HW.xdv (4 pages, 33368 bytes).

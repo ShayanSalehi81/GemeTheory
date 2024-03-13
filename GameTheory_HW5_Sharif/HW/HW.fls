@@ -1303,9 +1303,13 @@ INPUT pics\image4.jpg
 INPUT ..\questions\Q6.tex
 INPUT ..\questions\Q6.tex
 INPUT ..\questions\Q6.tex
+INPUT .\pics\image5.jpg
+INPUT pics\image5.jpg
 INPUT ..\questions\Q7.tex
 INPUT ..\questions\Q7.tex
 INPUT ..\questions\Q7.tex
+INPUT .\pics\image6.jpg
+INPUT pics\image6.jpg
 INPUT ..\questions\Q8.tex
 INPUT ..\questions\Q8.tex
 INPUT ..\questions\Q8.tex
