@@ -1,7 +1,7 @@
 \usepackage{graphicx,comment,framed}
 \usepackage{amsthm,amssymb,amsmath}
 %\usepackage[colorlinks,linkcolor=blue,citecolor=blue]{hyperref}
-
+\usepackage[rgb]{xcolor}
 \usepackage{amssymb,amsmath}
 \usepackage[colorlinks,linkcolor=blue,citecolor=blue]{hyperref}\usepackage{amsmath}
 \usepackage{amsfonts}
@@ -13,9 +13,9 @@
 \usepackage{multicol}
 \usepackage{setspace}
 \usepackage{tikz}
-
+\usepackage{tabularx}
 \usepackage{algorithmicx,algorithm}
-
+\usepackage{mdframed}
 \usepackage{xepersian}
 \usepackage[noend]{algpseudocode}
 \input{../commons/alg-fa.tex}
@@ -128,3 +128,59 @@
 \hfill {\sayeh\large #2} \hfill
 }
 
+% ------------------------------ Sample Input/Output --------------------------
+
+
+% Bases on: https://github.com/admp/LIO-LaTeX/tree/master/other/neerc-acm
+
+\def\s@tm@cr@s{%
+\def\widthin##1{\exmpwidinf=##1\relax}\def\widthout##1{\exmpwidouf=##1\relax}%
+\def\stretchin##1{\advance\exmpwidinf by ##1\relax}%
+\def\stretchout##1{\advance\exmpwidouf by ##1\relax}%
+}%
+
+\newenvironment{example*}[3][]{%
+\s@tm@cr@s\ttfamily\obeylines\obeyspaces\frenchspacing%\testst@r#1%
+\newcommand{\exmp}[2]{%
+\begin{minipage}[t]{#2}\rightskip=0pt plus 1fill\relax##1\medskip\end{minipage}&%
+\begin{minipage}[t]{#3}\rightskip=0pt plus 1fill\relax##2\medskip\end{minipage}\\%
+\hline}%
+\begin{tabular}{|l|l|}
+\hline
+\multicolumn{1}{|c|}{\bf\rl{ورودی نمونه}}&%
+\multicolumn{1}{|c|}{\bf\rl{خروجی نمونه}}\\%
+\hline
+}
+{\end{tabular}}
+
+\newenvironment{example}
+	{\begin{example*}{.47\textwidth}{.475\textwidth}}
+	{\end{example*}}
+
+% ------------------------------ Table Settings --------------------------
+
+\newcolumntype{Y}{>{\centering\arraybackslash}X}
+
+\definecolor{lightgreen}{rgb}{0.95, 0.99, 0.97}
+
+\newmdenv[
+	topline=false,
+	bottomline=false,
+	skipabove=\topsep,
+	skipbelow=\topsep,
+	backgroundcolor=lightgreen,
+	innerleftmargin=10pt,
+	innerrightmargin=10pt,
+	innertopmargin=10pt,
+	innerbottommargin=10pt,
+	leftmargin=10pt,
+	rightmargin=10pt,
+	leftline=false,
+	rightline=false,
+	linewidth=1pt
+]{siderules}
+	
+\newenvironment{examplebox}[0]
+	{\begin{siderules}\par\nobreak}
+	{\end{siderules}}
+	  
