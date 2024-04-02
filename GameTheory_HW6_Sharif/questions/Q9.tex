@@ -1,0 +1,25 @@
+برای 
+$A \in R^{m \times n}$
+تابع غیرخطی(!) زیر را در نظر بگیرید:
+\begin{align*}
+    &f: R^m \times R^n \to R \\
+    &f(x,y) = x^T A y \quad x \in R^m, y \in R^n
+\end{align*}
+می‌خواهیم
+$\max_{x \in P_m} \min_{y \in P_n} f(x, y)$
+را محاسبه کنیم به طوری که:
+\begin{align*}
+    &P_n = \{y \in R^n \,|\, \sum_{j=1}^n y_j = 1, y \geq 0\} \\
+    &P_m = \{x \in R^m \,|\, \sum_{i=1}^m x_i = 1, x \geq 0\} 
+\end{align*}
+جواب مسئله را به صورت جواب یک برنامه‌ریزی خطی بدست آورید.
+
+\textbf{راهنمایی:}
+برنامهٔ زیر را در نظر بگیرید:
+\[
+    \begin{array}{l l}
+        minimize    & \hspace*{20pt} x^T A y       \\
+        subject\,to & \hspace*{20pt} \sum y_j = 1  \\
+                    & \hspace*{20pt} y \geq 0
+    \end{array}
+\]
