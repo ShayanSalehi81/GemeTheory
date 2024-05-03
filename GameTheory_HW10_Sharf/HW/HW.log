@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.5.12)  24 APR 2024 12:02
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.5.12)  3 MAY 2024 07:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW9_Sharif/HW/HW.tex"
-(d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW9_Sharif/HW/HW.tex
+**"d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW10_Sharf/HW/HW.tex"
+(d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW10_Sharf/HW/HW.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-01-16> (C:\Program Files\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -1225,27 +1225,22 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 16.
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (../questions/Q1.tex) (../questions/Q2.tex) (../questions/Q3.tex
+) (../questions/Q1.tex
 LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
-(Font)              scaled to size 11.99997pt on input line 4.
-) [1
+(Font)              scaled to size 11.99997pt on input line 16.
+) (../questions/Q2.tex) (../questions/Q3.tex) (../questions/Q4.tex) [1
 
-] (../questions/Q4.tex) (../questions/Q5.tex) (../questions/Q6.tex) [2] (../questions/Q7.tex) (../questions/Q8.tex) (../questions/Q9.tex [3]) (../questions/Q10.tex) (../questions/Q11.tex) (../questions/Q12.tex [4]) (../questions/Q13.tex
-Missing character: There is no ، in font cmr10!
-) (../questions/Q14.tex) [5] (../questions/Q15.tex
-File: pics/image1.png Graphic file (type bmp)
-<pics/image1.png>
-) [6] (HW.aux)
+] (../questions/Q5.tex) (../questions/Q6.tex) (../questions/Q7.tex) (../questions/Q8.tex) (../questions/Q9.tex) (../questions/Q10.tex) [2] (../questions/Q11.tex) (../questions/Q12.tex) (../questions/Q13.tex) (../questions/Q14.tex) (../questions/Q15.tex) [3] (HW.aux)
 Package rerunfilecheck Info: File `HW.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29420 strings out of 411564
- 577668 string characters out of 2824404
- 1860985 words of memory out of 3000000
- 48926 multiletter control sequences out of 15000+600000
- 519247 words of font info for 91 fonts, out of 8000000 for 9000
+ 29393 strings out of 411564
+ 577064 string characters out of 2824404
+ 1862985 words of memory out of 3000000
+ 48907 multiletter control sequences out of 15000+600000
+ 519231 words of font info for 89 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 84i,7n,90p,2461b,445s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 84i,8n,90p,2461b,342s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on HW.xdv (6 pages, 83652 bytes).
+Output written on HW.xdv (3 pages, 32356 bytes).
