@@ -1,14 +1,14 @@
 # Fdb version 4
-["xdvipdfmx"] 1715708556.87675 "HW.xdv" "HW.pdf" "HW" 1715708557.38338 0
-  "HW.xdv" 1715708556 37172 87a4e9b038b0a70e4518729c20185186 "xelatex"
+["xdvipdfmx"] 1715709391.35594 "HW.xdv" "HW.pdf" "HW" 1715709391.88794 0
+  "HW.xdv" 1715709390 49912 f189512311017e86aba5166477820e09 "xelatex"
   (generated)
   "HW.pdf"
   (rewritten before read)
-["xelatex"] 1715708554.54486 "d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW11_Sharf/HW/HW.tex" "HW.xdv" "HW" 1715708557.36933 0
+["xelatex"] 1715709388.94453 "d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW11_Sharf/HW/HW.tex" "HW.xdv" "HW" 1715709391.86844 0
   "../commons/alg-fa.tex" 1707886330 1438 630aaa81895929eddba0efb6ab754a8c ""
   "../commons/sharif.png" 1707886330 34782 91c831e22cd5b8b30cdd0d7fa2b74a71 ""
   "../commons/style.tex" 1713336808 5165 a07a38b86948624fcbda90426be90f58 ""
-  "../questions/Q1.tex" 1715705543 189 14561bcc3db7eaeacad8824127ba3f4a ""
+  "../questions/Q1.tex" 1715709388 189 92728f0c30e6edd4b415573944d92309 ""
   "../questions/Q10.tex" 1715705218 0 d41d8cd98f00b204e9800998ecf8427e ""
   "../questions/Q11.tex" 1715705218 0 d41d8cd98f00b204e9800998ecf8427e ""
   "../questions/Q12.tex" 1714704760 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -16,13 +16,13 @@
   "../questions/Q14.tex" 1714704759 0 d41d8cd98f00b204e9800998ecf8427e ""
   "../questions/Q15.tex" 1714704759 0 d41d8cd98f00b204e9800998ecf8427e ""
   "../questions/Q2.tex" 1715705592 278 c759c1b41ab102ce10902bc046f8d122 ""
-  "../questions/Q3.tex" 1715705764 410 4aaf57292fde3c048034851a1896b33a ""
-  "../questions/Q4.tex" 1715706183 927 6239b648a992488e21cc8bf77de154e6 ""
-  "../questions/Q5.tex" 1715706303 413 c0c8aed19c5ace00229e301bbfc4681e ""
-  "../questions/Q6.tex" 1715706562 1945 7c0614ce242598a8e8d6a882b74086ba ""
+  "../questions/Q3.tex" 1715709377 410 324e47eecee5313158ae364435e6bd0d ""
+  "../questions/Q4.tex" 1715709366 927 87c5fa58af46ae7f48da9411f2ebfe3f ""
+  "../questions/Q5.tex" 1715709347 413 3a9f94d75f8fe52dc44b8ddcc8bcdf2f ""
+  "../questions/Q6.tex" 1715709338 1945 0c1e94936b8e53eecbe33225d303f7a7 ""
   "../questions/Q7.tex" 1715708553 1616 7601e76657d992c222ea111cef4cf6be ""
-  "../questions/Q8.tex" 1715705218 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "../questions/Q9.tex" 1715705218 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "../questions/Q8.tex" 1715709338 2097 93fe3b75d082d0b35c9fae6b7ce853b1 ""
+  "../questions/Q9.tex" 1715709306 513 26ea18c7db61a0729270b547c02cf150 ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136759654 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -246,10 +246,10 @@
   "C:/Program Files/MiKTeX/tex/xelatex/xepersian/xepersian.sty" 1693363100 54584 5f8b3a150aaee0d6ce03261f7ffd46a5 ""
   "C:/Program Files/MiKTeX/tex/xelatex/xetex-pstricks/pstricks.con" 1266284760 204 366747485ba2670f55166e66d1f21249 ""
   "C:/Users/ROG/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1715689207 37537522 2ed725d23163cb0e495c94ae6c700a4f ""
-  "HW.aux" 1715708556 634 0bc9fc3db7abfa79c150dba888059428 "xelatex"
-  "HW.out" 1715708556 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "HW.tex" 1715706631 951 9fbb0311a998d34cd46c0d005b7972f0 ""
-  "d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW11_Sharf/HW/HW.tex" 1715706631 951 9fbb0311a998d34cd46c0d005b7972f0 ""
+  "HW.aux" 1715709390 634 0bc9fc3db7abfa79c150dba888059428 "xelatex"
+  "HW.out" 1715709390 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "HW.tex" 1715709278 962 fd00fa64e1677a73bcd3c1e20a164d10 ""
+  "d:/Term 08/Game-Theory/Geme-Theory/GameTheory_HW11_Sharf/HW/HW.tex" 1715709278 962 fd00fa64e1677a73bcd3c1e20a164d10 ""
   (generated)
   "HW.aux"
   "HW.log"
