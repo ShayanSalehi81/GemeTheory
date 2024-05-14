@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.5.14)  14 MAY 2024 20:17
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.5.14)  14 MAY 2024 21:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1227,9 +1227,22 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (../questions/Q1.tex) (../questions/Q2.tex) (../questions/Q3.tex) (../questions/Q4.tex) (../questions/Q5.tex) (../questions/Q6.tex) (../questions/Q7.tex) (../questions/Q8.tex) (../questions/Q9.tex) (../questions/Q10.tex) (../questions/Q11.tex) (../questions/Q12.tex) (../questions/Q13.tex) (../questions/Q14.tex) [1
+) (../questions/Q1.tex
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 8.39998pt on input line 1.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 10.79997pt on input line 1.
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 7.19998pt on input line 1.
+) (../questions/Q2.tex) (../questions/Q3.tex) (../questions/Q4.tex
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/b/n' will be
+(Font)              scaled to size 11.99997pt on input line 4.
+) [1
 
-] (../questions/Q15.tex) [2] (HW.aux)
+] (../questions/Q5.tex) (../questions/Q6.tex) (../questions/Q7.tex
+LaTeX Font Info:    Font shape `TU/XBNiloofar(0)/m/n' will be
+(Font)              scaled to size 5.99998pt on input line 7.
+) (../questions/Q8.tex) (../questions/Q9.tex) [2] (../questions/Q10.tex) (../questions/Q11.tex) (../questions/Q12.tex) (../questions/Q13.tex) (../questions/Q14.tex) (../questions/Q15.tex) [3] (HW.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -1238,12 +1251,12 @@ Package rerunfilecheck Info: File `HW.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29248 strings out of 409617
- 570845 string characters out of 5778276
- 1925191 words of memory out of 5000000
- 50716 multiletter control sequences out of 15000+600000
- 563306 words of font info for 84 fonts, out of 8000000 for 9000
+ 29301 strings out of 409617
+ 572114 string characters out of 5778276
+ 1932191 words of memory out of 5000000
+ 50755 multiletter control sequences out of 15000+600000
+ 566606 words of font info for 105 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 86i,5n,96p,2461b,347s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,8n,96p,2461b,349s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on HW.xdv (2 pages, 5480 bytes).
+Output written on HW.xdv (3 pages, 37172 bytes).

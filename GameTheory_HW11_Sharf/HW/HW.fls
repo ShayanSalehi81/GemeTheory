@@ -464,6 +464,20 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT ..\questions\Q1.tex
 INPUT ..\questions\Q1.tex
 INPUT ..\questions\Q1.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi9.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy9.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex9.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT ..\questions\Q2.tex
 INPUT ..\questions\Q2.tex
 INPUT ..\questions\Q2.tex
@@ -473,37 +487,37 @@ INPUT ..\questions\Q3.tex
 INPUT ..\questions\Q4.tex
 INPUT ..\questions\Q4.tex
 INPUT ..\questions\Q4.tex
-INPUT ..\questions\Q5.tex
-INPUT ..\questions\Q5.tex
-INPUT ..\questions\Q5.tex
-INPUT ..\questions\Q6.tex
-INPUT ..\questions\Q6.tex
-INPUT ..\questions\Q6.tex
-INPUT ..\questions\Q7.tex
-INPUT ..\questions\Q7.tex
-INPUT ..\questions\Q7.tex
-INPUT ..\questions\Q8.tex
-INPUT ..\questions\Q8.tex
-INPUT ..\questions\Q8.tex
-INPUT ..\questions\Q9.tex
-INPUT ..\questions\Q9.tex
-INPUT ..\questions\Q9.tex
-INPUT ..\questions\Q10.tex
-INPUT ..\questions\Q10.tex
-INPUT ..\questions\Q10.tex
-INPUT ..\questions\Q11.tex
-INPUT ..\questions\Q11.tex
-INPUT ..\questions\Q11.tex
-INPUT ..\questions\Q12.tex
-INPUT ..\questions\Q12.tex
-INPUT ..\questions\Q12.tex
-INPUT ..\questions\Q13.tex
-INPUT ..\questions\Q13.tex
-INPUT ..\questions\Q13.tex
-INPUT ..\questions\Q14.tex
-INPUT ..\questions\Q14.tex
-INPUT ..\questions\Q14.tex
 OUTPUT HW.xdv
+INPUT ..\questions\Q5.tex
+INPUT ..\questions\Q5.tex
+INPUT ..\questions\Q5.tex
+INPUT ..\questions\Q6.tex
+INPUT ..\questions\Q6.tex
+INPUT ..\questions\Q6.tex
+INPUT ..\questions\Q7.tex
+INPUT ..\questions\Q7.tex
+INPUT ..\questions\Q7.tex
+INPUT ..\questions\Q8.tex
+INPUT ..\questions\Q8.tex
+INPUT ..\questions\Q8.tex
+INPUT ..\questions\Q9.tex
+INPUT ..\questions\Q9.tex
+INPUT ..\questions\Q9.tex
+INPUT ..\questions\Q10.tex
+INPUT ..\questions\Q10.tex
+INPUT ..\questions\Q10.tex
+INPUT ..\questions\Q11.tex
+INPUT ..\questions\Q11.tex
+INPUT ..\questions\Q11.tex
+INPUT ..\questions\Q12.tex
+INPUT ..\questions\Q12.tex
+INPUT ..\questions\Q12.tex
+INPUT ..\questions\Q13.tex
+INPUT ..\questions\Q13.tex
+INPUT ..\questions\Q13.tex
+INPUT ..\questions\Q14.tex
+INPUT ..\questions\Q14.tex
+INPUT ..\questions\Q14.tex
 INPUT ..\questions\Q15.tex
 INPUT ..\questions\Q15.tex
 INPUT ..\questions\Q15.tex
